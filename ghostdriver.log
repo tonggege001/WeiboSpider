@@ -1,0 +1,445 @@
+[INFO  - 2018-06-04T03:45:13.561Z] GhostDriver - Main - running on port 54963
+[INFO  - 2018-06-04T03:45:18.009Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-06-04T03:45:18.010Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.customHeaders:  - {}
+[INFO  - 2018-06-04T03:45:18.010Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-06-04T03:45:18.010Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b2b1a280-67a9-11e8-8482-3f911e6549f6
+[ERROR - 2018-06-04T03:45:19.577Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.577Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:526)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.581Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.581Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  showList (https://passport.sinaimg.cn/js/sso/cardtips.js:370)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:264)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.582Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.582Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:526)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.583Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.583Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  showList (https://passport.sinaimg.cn/js/sso/cardtips.js:370)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:264)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.583Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.584Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:526)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.585Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.585Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  showList (https://passport.sinaimg.cn/js/sso/cardtips.js:370)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:264)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.585Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.585Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:526)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.586Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.586Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  showList (https://passport.sinaimg.cn/js/sso/cardtips.js:370)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:264)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.587Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.587Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:526)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.588Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.588Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  showList (https://passport.sinaimg.cn/js/sso/cardtips.js:370)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:264)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.588Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.589Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:526)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.590Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.590Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  showList (https://passport.sinaimg.cn/js/sso/cardtips.js:370)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:264)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.590Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.590Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:526)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.591Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.591Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  showList (https://passport.sinaimg.cn/js/sso/cardtips.js:370)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:264)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.592Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.592Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:526)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.593Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.593Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  showList (https://passport.sinaimg.cn/js/sso/cardtips.js:370)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:264)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.594Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.594Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:526)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.596Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.596Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  showList (https://passport.sinaimg.cn/js/sso/cardtips.js:370)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:264)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.597Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.597Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:526)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.598Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.598Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  showList (https://passport.sinaimg.cn/js/sso/cardtips.js:370)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:264)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.598Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.598Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:526)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.599Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.arguments[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:19.599Z] Session [b2b1a280-67a9-11e8-8482-3f911e6549f6] - page.onError - stack:
+  getEvent (https://passport.sinaimg.cn/js/sso/cardtips.js:228)
+  showList (https://passport.sinaimg.cn/js/sso/cardtips.js:370)
+  (anonymous function) (https://passport.sinaimg.cn/js/sso/cardtips.js:264)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:47.464Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1528083946743
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:45:59.029Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1528083959024
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:46:17.082Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1528083976547
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:46:35.968Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1528083995455
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:46:54.410Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1528084013842
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:47:12.539Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1528084032431
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:47:31.617Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1528084050822
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:47:50.469Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1528084069621
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:48:08.483Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1528084087962
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:48:28.249Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1528084106555
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-04T03:48:46.503Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1528084126024
+
+  phantomjs://platform/console++.js:263 in error
